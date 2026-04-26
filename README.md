@@ -33,4 +33,6 @@ To see the list of all registered users:
 1. Clone or download this repository.
 2. Open `index.html` in any modern web browser.
 
-3. Develpod By [Abuzar Younas]
+---
+### 👨‍💻 Developed By
+**[Abuzar Younas]**
