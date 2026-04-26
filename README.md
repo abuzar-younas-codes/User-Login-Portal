@@ -6,10 +6,8 @@ A professional and clean **User Login & Registration System** built using HTML, 
 ## 📸 Screenshots
 
 | Login Page | Register Page |
-|------------|---------------|
-| ![Login](<img width="1597" height="770" alt="login " src="https://github.com/user-attachments/assets/b316683e-9339-44fd-9684-6d3430a1c421" />
-) | ![Register](<img width="1600" height="761" alt="register" src="https://github.com/user-attachments/assets/650b7a43-6be6-4047-8243-e6282a692145" />
-) |
+| :---: | :---: |
+| <img src="login.png" width="300"> | <img src="register.png" width="300"> |
 
 
 ## ✨ Features
